@@ -137,7 +137,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 
 ### 6. Smart Contract Secuirty
-- **Common Smart contract Bugs**
+- **Common Smart contract Bugs.**
     - [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
     - [SWC Registry](https://swcregistry.io/)
     - [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
